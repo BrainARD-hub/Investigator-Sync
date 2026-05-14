@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Investigator Sync",
-  "version": "1.0.0",
-  "description": "Automatically sync OSINT bookmarks from GitHub.",
+  "version": "1.0.1",
+  "description": "Automatically sync OSINT and cybersecurity bookmarks from GitHub.",
 
   "permissions": [
     "bookmarks",
@@ -15,7 +15,12 @@
   ],
 
   "background": {
-    "service_worker": "background.js"
+    "service_worker": "background.js",
+    "scripts": ["background.js"]
+  },
+
+  "action": {
+    "default_title": "Investigator Sync"
   },
 
   "icons": {
@@ -25,7 +30,10 @@
     "512": "favicon/android-chrome-512x512.png"
   },
 
-  "action": {
-    "default_title": "Investigator Sync"
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "investigator-sync@brainardhub.com",
+      "strict_min_version": "109.0"
+    }
   }
 }
