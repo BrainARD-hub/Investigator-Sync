@@ -38,10 +38,10 @@ Or install from the Chrome Web Store (coming soon).
 
 ## Documentation
 
-- Privacy Policy: ./PRIVACY.md
-- Changelog: ./CHANGELOG.md
-- Contributing: ./CONTRIBUTING.md
-- Releases: https://github.com/BrainARD-hub/Investigator-Sync/releases
+- [Privacy Policy:](./PRIVACY.md)
+- [Changelog:](./CHANGELOG.md)
+- [Contributing:](./CONTRIBUTING.md)
+- [Releases:](https://github.com/BrainARD-hub/Investigator-Sync/releases)
 
 ## Privacy
 
