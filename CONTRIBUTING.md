@@ -29,15 +29,16 @@ Each bookmark entry uses the following format:
   "title": "Tool Name",
   "url": "https://example.com"
 }
-
+```
 ## Category Format
 
+```json
 {
   "name": "Category Name",
   "bookmarks": [],
   "subcategories": []
 }
-
+```
 ## Reporting Broken Links
 
 Open an issue and include:
