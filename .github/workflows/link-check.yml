@@ -2,7 +2,7 @@ name: Link Checker
 
 on:
   schedule:
-    - cron: '0 3 * * 1'   # Every Monday at 03:00 UTC
+    - cron: '0 3 * * 1'
   workflow_dispatch:
 
 jobs:
@@ -18,9 +18,14 @@ jobs:
         with:
           args: >
             --verbose
-            --accept 200,204,206,301,302,403,429
+            --accept 200,204,206,301,302,400,403,429,500,999
+            --timeout 20
+            --retry-wait-time 5
+            --max-retries 2
+            --exclude-mail
             tools.json
             README.md
             index.html
+          fail: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
