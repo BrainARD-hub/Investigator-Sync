@@ -8,7 +8,8 @@
       "bookmarks": [
         {
           "title": "Cybrary",
-          "url": "https://app.cybrary.it/immersive/20707234/activity/72109"
+          "url": "https://app.cybrary.it/immersive/20707234/activity/72109",
+          "filterCategory": "General"
         }
       ],
       "subcategories": []
@@ -18,31 +19,38 @@
       "bookmarks": [
         {
           "title": "IPtoASN - Free IP to ASN Database | IP Geolocation & Country Mapping",
-          "url": "https://iptoasn.com/"
+          "url": "https://iptoasn.com/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "WHOIS API | WHOIS Lookup API | Domain WHOIS API",
-          "url": "https://www.whoxy.com/"
+          "url": "https://www.whoxy.com/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Tag ID Search",
-          "url": "https://webtechsurvey.com/tag"
+          "url": "https://webtechsurvey.com/tag",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Check and View Cached/Archived Web Pages - PageCached",
-          "url": "https://pagecached.com/?url=cbex29.com"
+          "url": "https://pagecached.com/?url=cbex29.com",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "SpyOnWeb Lite — cbn.gov.ng",
-          "url": "https://spyonweb.net/domain/cbn.gov.ng"
+          "url": "https://spyonweb.net/domain/cbn.gov.ng",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Google Cached Pages of Any Website - CachedView",
-          "url": "https://cachedview.com/"
+          "url": "https://cachedview.com/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "CachedView",
-          "url": "https://cachedview.nl/"
+          "url": "https://cachedview.nl/",
+          "filterCategory": "Cybersecurity"
         }
       ],
       "subcategories": []
@@ -52,19 +60,23 @@
       "bookmarks": [
         {
           "title": "WhatsMyName Web",
-          "url": "https://whatsmyname.app/"
+          "url": "https://whatsmyname.app/",
+          "filterCategory": "General"
         },
         {
           "title": "soxoj/maigret: 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
-          "url": "https://github.com/soxoj/maigret"
+          "url": "https://github.com/soxoj/maigret",
+          "filterCategory": "General"
         },
         {
           "title": "Home - UserSearch",
-          "url": "https://usersearch.ai/"
+          "url": "https://usersearch.ai/",
+          "filterCategory": "General"
         },
         {
           "title": "Streamlit",
-          "url": "https://share.streamlit.io/user/tonykipkemboi"
+          "url": "https://share.streamlit.io/user/tonykipkemboi",
+          "filterCategory": "General"
         }
       ],
       "subcategories": []
@@ -74,123 +86,153 @@
       "bookmarks": [
         {
           "title": "Custom Email Alerts - Virtual Vocations",
-          "url": "https://www.virtualvocations.com/alerts/job_alert/thankyou"
+          "url": "https://www.virtualvocations.com/alerts/job_alert/thankyou",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "megadose/holehe: holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-          "url": "https://github.com/megadose/holehe"
+          "url": "https://github.com/megadose/holehe",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "GitHub - N0rz3/Zehef: Zehef is an osint tool to track emails",
-          "url": "https://github.com/N0rz3/Zehef"
+          "url": "https://github.com/N0rz3/Zehef",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Gmail OSINT - ActiveTK.jp",
-          "url": "https://gmail-osint.activetk.jp/"
+          "url": "https://gmail-osint.activetk.jp/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "IntelBase",
-          "url": "https://intelbase.is/"
+          "url": "https://intelbase.is/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Epieos, the ultimate OSINT tool",
-          "url": "https://epieos.com/?r=1"
+          "url": "https://epieos.com/?r=1",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Avatar API.com - Put a name and face to that email address",
-          "url": "https://avatarapi.com/"
+          "url": "https://avatarapi.com/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Gravatar - Globally Recognized Avatars",
-          "url": "https://gravatar.com/site/check"
+          "url": "https://gravatar.com/site/check",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Sherlockeye",
-          "url": "https://app.sherlockeye.io/"
+          "url": "https://app.sherlockeye.io/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Free Email Address Finder | Anymail Finder",
-          "url": "https://anymailfinder.com/"
+          "url": "https://anymailfinder.com/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "GitHub Email Finder - Find email of any GitHub Developer",
-          "url": "https://github-email-finder.netlify.app/"
+          "url": "https://github-email-finder.netlify.app/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "PrivateInvestigator.Tech",
-          "url": "https://www.privateinvestigator.tech/search"
+          "url": "https://www.privateinvestigator.tech/search",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "#osintquest_investigation_platform",
-          "url": "https://platform.osintquest.pl/email-investigation"
+          "url": "https://platform.osintquest.pl/email-investigation",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Simple Email Reputation",
-          "url": "https://emailrep.io/"
+          "url": "https://emailrep.io/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Find email addresses and send cold emails • Hunter",
-          "url": "https://hunter.io/"
+          "url": "https://hunter.io/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "megadose/holehe: holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-          "url": "https://github.com/megadose/holehe?tab=readme-ov-file"
+          "url": "https://github.com/megadose/holehe?tab=readme-ov-file",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Norbert - Lead generation and email outreach tool",
-          "url": "https://app.voilanorbert.com/#/prospecting/manual"
+          "url": "https://app.voilanorbert.com/#/prospecting/manual",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "DeHashed — #FreeThePassword",
-          "url": "https://app.dehashed.com/search"
+          "url": "https://app.dehashed.com/search",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Email checker to verify if an email is fake or real, valid/spam/scam or not.",
-          "url": "https://cleantalk.org/email-checker/admin@yahoo.com"
+          "url": "https://cleantalk.org/email-checker/admin@yahoo.com",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "GitHub - p1ngul1n0/blackbird: An OSINT tool to search for accounts by username and email in social networks.",
-          "url": "https://github.com/p1ngul1n0/blackbird"
+          "url": "https://github.com/p1ngul1n0/blackbird",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "GitHub - piaolin/DetectDee: DetectDee: Hunt down social media accounts by username, email or phone across social networks.",
-          "url": "https://github.com/piaolin/DetectDee"
+          "url": "https://github.com/piaolin/DetectDee",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Castrick - Find clues about anyone",
-          "url": "https://castrickclues.com/"
+          "url": "https://castrickclues.com/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "GitHub - N0rz3/Eyes: 🕵️ Email osint tool",
-          "url": "https://github.com/N0rz3/Eyes"
+          "url": "https://github.com/N0rz3/Eyes",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "GitHub - sham00n/buster: An advanced tool for email reconnaissance",
-          "url": "https://github.com/sham00n/buster"
+          "url": "https://github.com/sham00n/buster",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "GitHub - mxrch/GHunt: 🕵️‍♂️ Offensive Google framework.",
-          "url": "https://github.com/mxrch/GHunt"
+          "url": "https://github.com/mxrch/GHunt",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Have I Been Sold?",
-          "url": "https://haveibeensold.app/"
+          "url": "https://haveibeensold.app/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "OSINT Results",
-          "url": "https://minervaosint.com/"
+          "url": "https://minervaosint.com/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "IntelTechniques Search Tool",
-          "url": "https://inteltechniques.com/tools/Email.html"
+          "url": "https://inteltechniques.com/tools/Email.html",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "GitHub - jakecreps/poastal: Poastal - the Email OSINT tool",
-          "url": "https://github.com/jakecreps/poastal"
+          "url": "https://github.com/jakecreps/poastal",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Homepage - Reverse email, phone number, username or name lookup - Predicta Search",
-          "url": "https://www.predictasearch.com/"
+          "url": "https://www.predictasearch.com/",
+          "filterCategory": "Cybersecurity"
         }
       ],
       "subcategories": []
@@ -200,43 +242,53 @@
       "bookmarks": [
         {
           "title": "VECERT | Intelligence Forums",
-          "url": "https://analyzer.vecert.io/forums"
+          "url": "https://analyzer.vecert.io/forums",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "BreachDirectory - Check If Your Email or Username was Compromised",
-          "url": "https://breachdirectory.org/"
+          "url": "https://breachdirectory.org/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Have I Been Pwned: Check if your email address has been exposed in a data breach",
-          "url": "https://haveibeenpwned.com/"
+          "url": "https://haveibeenpwned.com/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Snusbase - Database Search Engine",
-          "url": "https://www.snusbase.com/"
+          "url": "https://www.snusbase.com/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "DeHashed — #FreeThePassword",
-          "url": "https://dehashed.com/search#breachCheck"
+          "url": "https://dehashed.com/search#breachCheck",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Intelligence X",
-          "url": "https://intelx.io/"
+          "url": "https://intelx.io/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "LeakCheck - Find out if your credentials have been compromised",
-          "url": "https://leakcheck.io/"
+          "url": "https://leakcheck.io/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "LeakIX",
-          "url": "https://leakix.net/"
+          "url": "https://leakix.net/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "GitHub - RetrO-M/Hawker: If you are having trouble with your investigations, Hawker OSINT is here to help.",
-          "url": "https://github.com/RetrO-M/Hawker"
+          "url": "https://github.com/RetrO-M/Hawker",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Leak - Lookup | Data Breaches",
-          "url": "https://leak-lookup.com/breaches#000webhost-com"
+          "url": "https://leak-lookup.com/breaches#000webhost-com",
+          "filterCategory": "Cybersecurity"
         }
       ],
       "subcategories": []
@@ -246,59 +298,73 @@
       "bookmarks": [
         {
           "title": "Search for a trade mark - GOV.UK",
-          "url": "https://www.gov.uk/search-for-trademark"
+          "url": "https://www.gov.uk/search-for-trademark",
+          "filterCategory": "Brand Protection"
         },
         {
           "title": "E-Government Portal",
-          "url": "https://services.gov.ng/"
+          "url": "https://services.gov.ng/",
+          "filterCategory": "Brand Protection"
         },
         {
           "title": "CAC - Nigerian Corporate Registry",
-          "url": "https://search.cac.gov.ng/list"
+          "url": "https://search.cac.gov.ng/list",
+          "filterCategory": "Brand Protection"
         },
         {
           "title": "Post - Incorporation",
-          "url": "https://post.cac.gov.ng/search/type/company"
+          "url": "https://post.cac.gov.ng/search/type/company",
+          "filterCategory": "Brand Protection"
         },
         {
           "title": "India trademark",
-          "url": "https://tmrsearch.ipindia.gov.in/tmrpublicsearch/"
+          "url": "https://tmrsearch.ipindia.gov.in/tmrpublicsearch/",
+          "filterCategory": "Brand Protection"
         },
         {
           "title": "Home : Open Corporates",
-          "url": "https://opencorporates.com/"
+          "url": "https://opencorporates.com/",
+          "filterCategory": "Brand Protection"
         },
         {
           "title": "SBA Paycheck Protection Program Data Lookup - FederalPay",
-          "url": "https://www.federalpay.org/paycheck-protection-program#"
+          "url": "https://www.federalpay.org/paycheck-protection-program#",
+          "filterCategory": "Brand Protection"
         },
         {
           "title": "Trademark Search",
-          "url": "https://tmsearch.uspto.gov/search/search-results"
+          "url": "https://tmsearch.uspto.gov/search/search-results",
+          "filterCategory": "Brand Protection"
         },
         {
           "title": "IT Portal",
-          "url": "https://iicpportal.nitda.gov.ng/"
+          "url": "https://iicpportal.nitda.gov.ng/",
+          "filterCategory": "Brand Protection"
         },
         {
           "title": "iCRP | iCRP",
-          "url": "https://icrp.cac.gov.ng/public-search"
+          "url": "https://icrp.cac.gov.ng/public-search",
+          "filterCategory": "Brand Protection"
         },
         {
           "title": "Nigerian Tax ID Portal",
-          "url": "https://taxid.nrs.gov.ng/"
+          "url": "https://taxid.nrs.gov.ng/",
+          "filterCategory": "Brand Protection"
         },
         {
           "title": "e-Tax | LIRS",
-          "url": "https://etax.lirs.net/register"
+          "url": "https://etax.lirs.net/register",
+          "filterCategory": "Brand Protection"
         },
         {
           "title": "Corporate Registration - eeziTax",
-          "url": "https://etax.kirs.gov.ng/verifyCAC"
+          "url": "https://etax.kirs.gov.ng/verifyCAC",
+          "filterCategory": "Brand Protection"
         },
         {
           "title": "Verification - stampduty.gov.ng",
-          "url": "https://www.stampduty.gov.ng/verification;jsessionid=749B596E9A3B4B3DB2FF9A10C1A4FFC0"
+          "url": "https://www.stampduty.gov.ng/verification;jsessionid=749B596E9A3B4B3DB2FF9A10C1A4FFC0",
+          "filterCategory": "Brand Protection"
         }
       ],
       "subcategories": []
@@ -308,11 +374,13 @@
       "bookmarks": [
         {
           "title": "DuckDuckGo Email | Email Protection from DuckDuckGo",
-          "url": "https://duckduckgo.com/email/settings/autofill"
+          "url": "https://duckduckgo.com/email/settings/autofill",
+          "filterCategory": "General"
         },
         {
           "title": "Search by Image",
-          "url": "https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci?hl=en"
+          "url": "https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci?hl=en",
+          "filterCategory": "General"
         }
       ],
       "subcategories": []
@@ -322,31 +390,38 @@
       "bookmarks": [
         {
           "title": "osint.rocks",
-          "url": "https://osint.rocks/"
+          "url": "https://osint.rocks/",
+          "filterCategory": "General"
         },
         {
           "title": "GitHub - TermuxHackz/X-osint: This is an Open source intelligent framework ie an osint tool which gathers valid information about a phone number, user's email address, perform VIN Osint, and reverse, perform subdomain enumeration, able to find email from a name, and so much more. Best osint tool for Termux and linux",
-          "url": "https://github.com/TermuxHackz/X-osint"
+          "url": "https://github.com/TermuxHackz/X-osint",
+          "filterCategory": "General"
         },
         {
           "title": "Cipher387",
-          "url": "https://cipher387.github.io/"
+          "url": "https://cipher387.github.io/",
+          "filterCategory": "General"
         },
         {
           "title": "IntelTechniques Search Tool",
-          "url": "https://inteltechniques.com/tools/Username.html"
+          "url": "https://inteltechniques.com/tools/Username.html",
+          "filterCategory": "General"
         },
         {
           "title": "Terminal6",
-          "url": "https://terminal6.org/"
+          "url": "https://terminal6.org/",
+          "filterCategory": "General"
         },
         {
           "title": "Search: gov.ng - OCCRP Aleph",
-          "url": "https://data.occrp.org/search?facet=emails&facet=phones&facet=collection_id&facet_size%3Acollection_id=10&facet_size%3Aemails=10&facet_size%3Aphones=10&facet_total%3Acollection_id=true&facet_total%3Aemails=true&facet_total%3Aphones=true&limit=30&q=gov.ng"
+          "url": "https://data.occrp.org/search?facet=emails&facet=phones&facet=collection_id&facet_size%3Acollection_id=10&facet_size%3Aemails=10&facet_size%3Aphones=10&facet_total%3Acollection_id=true&facet_total%3Aemails=true&facet_total%3Aphones=true&limit=30&q=gov.ng",
+          "filterCategory": "General"
         },
         {
           "title": "Snov.io",
-          "url": "https://app.snov.io/login"
+          "url": "https://app.snov.io/login",
+          "filterCategory": "General"
         }
       ],
       "subcategories": []
@@ -356,27 +431,33 @@
       "bookmarks": [
         {
           "title": "Create New Canarytoken",
-          "url": "https://www.canarytokens.org/nest/"
+          "url": "https://www.canarytokens.org/nest/",
+          "filterCategory": "General"
         },
         {
           "title": "Google Alerts - Monitor the Web for interesting new content",
-          "url": "https://www.google.com/alerts"
+          "url": "https://www.google.com/alerts",
+          "filterCategory": "General"
         },
         {
           "title": "Visualping: #1 Website change detection, monitoring and alerts",
-          "url": "https://visualping.io/"
+          "url": "https://visualping.io/",
+          "filterCategory": "General"
         },
         {
           "title": "Distill Chrome Extension - Monitor Website Changes – Distill",
-          "url": "https://distill.io/docs/web-monitor/distill-chrome-extension/"
+          "url": "https://distill.io/docs/web-monitor/distill-chrome-extension/",
+          "filterCategory": "General"
         },
         {
           "title": "Social Buzz – Free Social Mentions Search and Monitoring",
-          "url": "https://www.social-searcher.com/social-buzz/?q5=usa&ntw=web,facebook,twitter,youtube,instagram,tumblr,reddit,flickr,dailymotion,vkontakte,linkedin&psttyp=link,photo,status,video&wblng=&fbpage=&searchid=686932052826f523890642d4"
+          "url": "https://www.social-searcher.com/social-buzz/?q5=usa&ntw=web,facebook,twitter,youtube,instagram,tumblr,reddit,flickr,dailymotion,vkontakte,linkedin&psttyp=link,photo,status,video&wblng=&fbpage=&searchid=686932052826f523890642d4",
+          "filterCategory": "General"
         },
         {
           "title": "Global Scammer Database - Catch a Scammer",
-          "url": "https://scamsearch.io/package"
+          "url": "https://scamsearch.io/package",
+          "filterCategory": "General"
         }
       ],
       "subcategories": []
@@ -386,43 +467,53 @@
       "bookmarks": [
         {
           "title": "home - ACCOUNTKILLER.COM",
-          "url": "https://www.accountkiller.com/en/home"
+          "url": "https://www.accountkiller.com/en/home",
+          "filterCategory": "General"
         },
         {
           "title": "Just Delete Me | A directory of direct links to delete your account from web services.",
-          "url": "https://justdeleteme.xyz/"
+          "url": "https://justdeleteme.xyz/",
+          "filterCategory": "General"
         },
         {
           "title": "theXifer.net - Just a Web Based EXIF Editor for Local, Cloud, Flickr, Google Drive",
-          "url": "https://www.thexifer.net/"
+          "url": "https://www.thexifer.net/",
+          "filterCategory": "General"
         },
         {
           "title": "Midjourney",
-          "url": "https://www.midjourney.com/home"
+          "url": "https://www.midjourney.com/home",
+          "filterCategory": "General"
         },
         {
           "title": "This MP Does Not Exist 🗳🧑‍💼",
-          "url": "https://vole.wtf/this-mp-does-not-exist/#"
+          "url": "https://vole.wtf/this-mp-does-not-exist/#",
+          "filterCategory": "General"
         },
         {
           "title": "Operation Privacy Dashboard",
-          "url": "https://dashboard.operationprivacy.com/category/61493c605db6810016b7df5a"
+          "url": "https://dashboard.operationprivacy.com/category/61493c605db6810016b7df5a",
+          "filterCategory": "General"
         },
         {
           "title": "Free Credit Card Generator | Fake CC Generator",
-          "url": "https://www.akto.io/tools/credit-card-generator"
+          "url": "https://www.akto.io/tools/credit-card-generator",
+          "filterCategory": "General"
         },
         {
           "title": "Creator AI Influencer For Free | Personalized AI Portrait | AI Image & Video - APOB",
-          "url": "https://apob.ai/"
+          "url": "https://apob.ai/",
+          "filterCategory": "General"
         },
         {
           "title": "Receive sms online for free, Free sms receive online, Temporary phone number for verification code",
-          "url": "https://temporary-phone-number.com/"
+          "url": "https://temporary-phone-number.com/",
+          "filterCategory": "General"
         },
         {
           "title": "#No1 Fake Detail Generator | Get Whole New Fake Person Identity Generator",
-          "url": "https://fakedetail.com/"
+          "url": "https://fakedetail.com/",
+          "filterCategory": "General"
         }
       ],
       "subcategories": []
@@ -432,35 +523,43 @@
       "bookmarks": [
         {
           "title": "theXifer.net - Just a Web Based EXIF Editor for Local, Cloud, Flickr, Google Drive",
-          "url": "https://www.thexifer.net/"
+          "url": "https://www.thexifer.net/",
+          "filterCategory": "General"
         },
         {
           "title": "Lenso.ai - AI Reverse Image Search",
-          "url": "https://lenso.ai/en"
+          "url": "https://lenso.ai/en",
+          "filterCategory": "General"
         },
         {
           "title": "Cleanup.pictures - Remove objects, people, text and defects from any picture for free",
-          "url": "https://cleanup.pictures/"
+          "url": "https://cleanup.pictures/",
+          "filterCategory": "General"
         },
         {
           "title": "FotoForensics",
-          "url": "https://fotoforensics.com/"
+          "url": "https://fotoforensics.com/",
+          "filterCategory": "General"
         },
         {
           "title": "exif Extension",
-          "url": "https://chromewebstore.google.com/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm"
+          "url": "https://chromewebstore.google.com/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm",
+          "filterCategory": "General"
         },
         {
           "title": "Remove Background from Image for Free – remove.bg",
-          "url": "https://www.remove.bg/"
+          "url": "https://www.remove.bg/",
+          "filterCategory": "General"
         },
         {
           "title": "Compress PDF Files Online - High-Quality PDF Compression",
-          "url": "https://www.simpleimageresizer.com/compress-pdf"
+          "url": "https://www.simpleimageresizer.com/compress-pdf",
+          "filterCategory": "General"
         },
         {
           "title": "Home - UserSearch",
-          "url": "https://usersearch.ai/"
+          "url": "https://usersearch.ai/",
+          "filterCategory": "General"
         }
       ],
       "subcategories": [
@@ -469,7 +568,8 @@
           "bookmarks": [
             {
               "title": "Face Search and People Finder | Surfface AI",
-              "url": "https://surfface.com/"
+              "url": "https://surfface.com/",
+              "filterCategory": "General"
             }
           ],
           "subcategories": []
@@ -481,35 +581,43 @@
       "bookmarks": [
         {
           "title": "Public Record Search Results ✔️ | Black Book Online",
-          "url": "https://www.blackbookonline.info/searchresults.aspx"
+          "url": "https://www.blackbookonline.info/searchresults.aspx",
+          "filterCategory": "General"
         },
         {
           "title": "Search Tools - TinyWow",
-          "url": "https://tinywow.com/tools"
+          "url": "https://tinywow.com/tools",
+          "filterCategory": "General"
         },
         {
           "title": "Carrot2 search results clustering engine",
-          "url": "https://search.carrot2.org/#/search/pubmed"
+          "url": "https://search.carrot2.org/#/search/pubmed",
+          "filterCategory": "General"
         },
         {
           "title": "Startpage - Private Search Engine. No Tracking. No Search History.",
-          "url": "https://www.startpage.com/"
+          "url": "https://www.startpage.com/",
+          "filterCategory": "General"
         },
         {
           "title": "searx",
-          "url": "https://metasearx.com/"
+          "url": "https://metasearx.com/",
+          "filterCategory": "General"
         },
         {
           "title": "DorkSearch",
-          "url": "https://dorksearch.com/"
+          "url": "https://dorksearch.com/",
+          "filterCategory": "General"
         },
         {
           "title": "NAMINT",
-          "url": "https://seintpl.github.io/NAMINT/"
+          "url": "https://seintpl.github.io/NAMINT/",
+          "filterCategory": "General"
         },
         {
           "title": "GitHub - seintpl/NAMINT-extension: Browser extensions with NAMINT tool functionalities · GitHub",
-          "url": "https://github.com/seintpl/NAMINT-extension"
+          "url": "https://github.com/seintpl/NAMINT-extension",
+          "filterCategory": "General"
         }
       ],
       "subcategories": []
@@ -519,7 +627,8 @@
       "bookmarks": [
         {
           "title": "MW Youtube Metadata",
-          "url": "https://mattw.io/youtube-metadata/"
+          "url": "https://mattw.io/youtube-metadata/",
+          "filterCategory": "General"
         }
       ],
       "subcategories": [
@@ -528,7 +637,8 @@
           "bookmarks": [
             {
               "title": "yt-dlp/yt-dlp: A feature-rich command-line audio/video downloader",
-              "url": "https://github.com/yt-dlp/yt-dlp"
+              "url": "https://github.com/yt-dlp/yt-dlp",
+              "filterCategory": "General"
             }
           ],
           "subcategories": []
@@ -538,7 +648,8 @@
           "bookmarks": [
             {
               "title": "ggml-org/whisper.cpp: Port of OpenAI's Whisper model in C/C++",
-              "url": "https://github.com/ggml-org/whisper.cpp"
+              "url": "https://github.com/ggml-org/whisper.cpp",
+              "filterCategory": "General"
             }
           ],
           "subcategories": []
@@ -550,11 +661,13 @@
       "bookmarks": [
         {
           "title": "Reddit",
-          "url": "https://www.reddit.com/r/OSINT/new/"
+          "url": "https://www.reddit.com/r/OSINT/new/",
+          "filterCategory": "Journalist"
         },
         {
           "title": "OSINT CHINE - Start.me",
-          "url": "https://start.me/p/7kLY9R/osint-chine"
+          "url": "https://start.me/p/7kLY9R/osint-chine",
+          "filterCategory": "Journalist"
         }
       ],
       "subcategories": []
@@ -564,19 +677,23 @@
       "bookmarks": [
         {
           "title": "OSINT Tools Directory | EINITIAL24",
-          "url": "https://einitial24.com/osint-tool-directory/#tools"
+          "url": "https://einitial24.com/osint-tool-directory/#tools",
+          "filterCategory": "General"
         },
         {
           "title": "cybdetective details",
-          "url": "https://www.ransomlook.io/telegram/cybdetective"
+          "url": "https://www.ransomlook.io/telegram/cybdetective",
+          "filterCategory": "General"
         },
         {
           "title": "Learn Next Level OSINT! - YouTube",
-          "url": "https://www.youtube.com/watch?v=DgyPYA1iI_0"
+          "url": "https://www.youtube.com/watch?v=DgyPYA1iI_0",
+          "filterCategory": "General"
         },
         {
           "title": "How to Investigate Any X (Twitter) Account 🔎: Complete Practical OSINT Methods 🕵️‍♂️ | Day 2 📊 | by Deepanshu Deep | Mar, 2026 | OSINT Team",
-          "url": "https://osintteam.blog/how-to-investigate-any-x-twitter-account-complete-practical-osint-methods-%EF%B8%8F-%EF%B8%8F-day-2-1f3b761ce351"
+          "url": "https://osintteam.blog/how-to-investigate-any-x-twitter-account-complete-practical-osint-methods-%EF%B8%8F-%EF%B8%8F-day-2-1f3b761ce351",
+          "filterCategory": "General"
         }
       ],
       "subcategories": []
@@ -586,67 +703,83 @@
       "bookmarks": [
         {
           "title": "Attention Required! | Cloudflare",
-          "url": "https://www.carvana.com/shop"
+          "url": "https://www.carvana.com/shop",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Edit Application Form",
-          "url": "https://nvis.frsc.gov.ng/VehicleManagement/VerifyPlateNo"
+          "url": "https://nvis.frsc.gov.ng/VehicleManagement/VerifyPlateNo",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "ClearVin - Conduct Your VIN Number Lookup with the ClearVin VIN Check",
-          "url": "https://www.clearvin.com/en/"
+          "url": "https://www.clearvin.com/en/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Instant Cash Offer - Kelley Blue Book",
-          "url": "https://www.kbb.com/instant-cash-offer/"
+          "url": "https://www.kbb.com/instant-cash-offer/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Research Vehicle History | VehicleHistory",
-          "url": "https://vehiclehistory.bja.ojp.gov/nmvtis_vehiclehistory"
+          "url": "https://vehiclehistory.bja.ojp.gov/nmvtis_vehiclehistory",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Sell or Trade In Your Car Online - Carvana",
-          "url": "https://www.carvana.com/sell-my-car"
+          "url": "https://www.carvana.com/sell-my-car",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Search Quarry",
-          "url": "https://www.searchquarry.com/vehicle_records/"
+          "url": "https://www.searchquarry.com/vehicle_records/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Lagos vehincle",
-          "url": "https://dvis.lg.gov.ng/verify/"
+          "url": "https://dvis.lg.gov.ng/verify/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "License",
-          "url": "https://dvis.lg.gov.ng/check-international-drivers-license/"
+          "url": "https://dvis.lg.gov.ng/check-international-drivers-license/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "DRTS ONLINE SELF-SERVICE PORTAL",
-          "url": "https://selfservice.fctevreg.com/vehicle_verification.php"
+          "url": "https://selfservice.fctevreg.com/vehicle_verification.php",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "LAGOS",
-          "url": "https://payvis.ng/"
+          "url": "https://payvis.ng/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Verify used car before purchase, Vehicle Inspection, Report a missing vehicle - LegitCar",
-          "url": "https://verify.legitcar.ng/#decoded-vin-result"
+          "url": "https://verify.legitcar.ng/#decoded-vin-result",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "DRTS ONLINE SELF-SERVICE PORTAL",
-          "url": "https://selfservice.fctevreg.com/vehicle_registration.php"
+          "url": "https://selfservice.fctevreg.com/vehicle_registration.php",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Check License | KADVREG",
-          "url": "https://kadvreg.net/app/check"
+          "url": "https://kadvreg.net/app/check",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Katsina Vcentral",
-          "url": "https://selfservice.katsinavcentral.com/"
+          "url": "https://selfservice.katsinavcentral.com/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "AutoReg Customer Portal",
-          "url": "http://vreg.irs.kg.gov.ng/SignUp.aspx"
+          "url": "http://vreg.irs.kg.gov.ng/SignUp.aspx",
+          "filterCategory": "Cybersecurity"
         }
       ],
       "subcategories": []
@@ -656,75 +789,93 @@
       "bookmarks": [
         {
           "title": "Nigerian Immigration Services | Passport",
-          "url": "https://passport.immigration.gov.ng/nin/VTJGc2RHVmtYMS9oendqcjVYTU5NTGlKeGFxQ0JCc0U4NTl4UEJjMENnZz0%3D"
+          "url": "https://passport.immigration.gov.ng/nin/VTJGc2RHVmtYMS9oendqcjVYTU5NTGlKeGFxQ0JCc0U4NTl4UEJjMENnZz0%3D",
+          "filterCategory": "HR"
         },
         {
           "title": "People Search by Name - Cyber Background Checks",
-          "url": "https://www.cyberbackgroundchecks.com/name"
+          "url": "https://www.cyberbackgroundchecks.com/name",
+          "filterCategory": "HR"
         },
         {
           "title": "Free People Search & Reverse Phone Lookup - FastPeopleSearch.com",
-          "url": "https://www.fastpeoplesearch.com/"
+          "url": "https://www.fastpeoplesearch.com/",
+          "filterCategory": "HR"
         },
         {
           "title": "Free Reverse Phone Lookup - Cell Phone or Landline | Spy Dialer",
-          "url": "https://www.spydialer.com/"
+          "url": "https://www.spydialer.com/",
+          "filterCategory": "HR"
         },
         {
           "title": "Search - ContactOut",
-          "url": "https://contactout.com/dashboard/search?login=success&nm=Robert%20Lee&page=1"
+          "url": "https://contactout.com/dashboard/search?login=success&nm=Robert%20Lee&page=1",
+          "filterCategory": "HR"
         },
         {
           "title": "People Finder - People Search, Background Checks & Phone Number Lookup",
-          "url": "https://www.peoplefinder.com/"
+          "url": "https://www.peoplefinder.com/",
+          "filterCategory": "HR"
         },
         {
           "title": "Free People Search | White Pages | Anywho",
-          "url": "https://www.anywho.com/"
+          "url": "https://www.anywho.com/",
+          "filterCategory": "HR"
         },
         {
           "title": "Intelius Access - People Search Service",
-          "url": "https://www.intelius.com/access/?traffic%5Bsource%5D=VBDA&traffic%5Bmedium%5D=affiliate&traffic%5Bcampaign%5D=:searchpeoplefree&traffic%5Bterm%5D=&traffic%5Bcontent%5D=&s1=searchpeoplefree&s2=&s3=&s4=&s5=&traffic%5Bfunnel%5D=bg&traffic%5Bsub_id%5D=searchpeoplefree&traffic%5Bs2%5D=&traffic%5Bplacement%5D=&ck_rsid=3752544395"
+          "url": "https://www.intelius.com/access/?traffic%5Bsource%5D=VBDA&traffic%5Bmedium%5D=affiliate&traffic%5Bcampaign%5D=:searchpeoplefree&traffic%5Bterm%5D=&traffic%5Bcontent%5D=&s1=searchpeoplefree&s2=&s3=&s4=&s5=&traffic%5Bfunnel%5D=bg&traffic%5Bsub_id%5D=searchpeoplefree&traffic%5Bs2%5D=&traffic%5Bplacement%5D=&ck_rsid=3752544395",
+          "filterCategory": "HR"
         },
         {
           "title": "TruthFinder - People Search, Reverse Phone Lookup, Address Lookup",
-          "url": "https://www.truthfinder.com/"
+          "url": "https://www.truthfinder.com/",
+          "filterCategory": "HR"
         },
         {
           "title": "Pierre-Edouard STERIN, 51 ans (GRAVIGNY, PARIS) - Copains d'avant",
-          "url": "https://copainsdavant.linternaute.com/p/pierre-edouard-sterin-36998"
+          "url": "https://copainsdavant.linternaute.com/p/pierre-edouard-sterin-36998",
+          "filterCategory": "HR"
         },
         {
           "title": "Free** Reverse Phone Number Lookup(s) - Cell Phones, Landlines, VOIP & More",
-          "url": "https://www.zabasearch.com/reverse-phone-lookup/"
+          "url": "https://www.zabasearch.com/reverse-phone-lookup/",
+          "filterCategory": "HR"
         },
         {
           "title": "People Search - Find People Fast and Free | Radaris",
-          "url": "https://radaris.com/"
+          "url": "https://radaris.com/",
+          "filterCategory": "HR"
         },
         {
           "title": "Search: brainard | Flickr",
-          "url": "https://flickr.com/search/people/?username=brainard"
+          "url": "https://flickr.com/search/people/?username=brainard",
+          "filterCategory": "HR"
         },
         {
           "title": "PeekYou - Fast People Search Made Easy",
-          "url": "https://www.peekyou.com/"
+          "url": "https://www.peekyou.com/",
+          "filterCategory": "HR"
         },
         {
           "title": "Instant Checkmate - People Search & Reverse Phone Lookup",
-          "url": "https://www.instantcheckmate.com/"
+          "url": "https://www.instantcheckmate.com/",
+          "filterCategory": "HR"
         },
         {
           "title": "Public Records | Search the Original Resource Worldwide",
-          "url": "https://publicrecords.searchsystems.net/"
+          "url": "https://publicrecords.searchsystems.net/",
+          "filterCategory": "HR"
         },
         {
           "title": "Public Access to Court Electronic Records | PACER: Federal Court Records",
-          "url": "https://pacer.uscourts.gov/"
+          "url": "https://pacer.uscourts.gov/",
+          "filterCategory": "HR"
         },
         {
           "title": "ORCID",
-          "url": "https://orcid.org/"
+          "url": "https://orcid.org/",
+          "filterCategory": "HR"
         }
       ],
       "subcategories": [
@@ -733,15 +884,18 @@
           "bookmarks": [
             {
               "title": "Find a Lawyer / Nigerian Bar Association",
-              "url": "https://www.nigerianbar.org.ng/find-a-lawyer"
+              "url": "https://www.nigerianbar.org.ng/find-a-lawyer",
+              "filterCategory": "General"
             },
             {
               "title": "Top Divorce Lawyers | Compare Attorneys Near You | 2025 FindLaw Directory",
-              "url": "https://lawyers.findlaw.com/divorce/"
+              "url": "https://lawyers.findlaw.com/divorce/",
+              "filterCategory": "General"
             },
             {
               "title": "Lawyers Directory | Lawbreed Limited",
-              "url": "https://www.lawbreed.com/site/lawyers-directory/"
+              "url": "https://www.lawbreed.com/site/lawyers-directory/",
+              "filterCategory": "General"
             }
           ],
           "subcategories": []
@@ -753,15 +907,18 @@
       "bookmarks": [
         {
           "title": "Find out who called - Sync.ME",
-          "url": "https://sync.me/"
+          "url": "https://sync.me/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "megadose/ignorant: ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.",
-          "url": "https://github.com/megadose/ignorant"
+          "url": "https://github.com/megadose/ignorant",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Trace Mobile number, Like Country and Telecom Operator Of India,Pakistan,Bangladesh,Nepal,Kenya",
-          "url": "https://www.emobiletracker.com/free-trace-world-phone.html"
+          "url": "https://www.emobiletracker.com/free-trace-world-phone.html",
+          "filterCategory": "Cybersecurity"
         }
       ],
       "subcategories": []
@@ -771,7 +928,8 @@
       "bookmarks": [
         {
           "title": "Malfrats/xeuledoc: Fetch information about a public Google document.",
-          "url": "https://github.com/Malfrats/xeuledoc"
+          "url": "https://github.com/Malfrats/xeuledoc",
+          "filterCategory": "Cybersecurity"
         }
       ],
       "subcategories": []
@@ -781,59 +939,73 @@
       "bookmarks": [
         {
           "title": "Search | LinkedIn",
-          "url": "https://www.linkedin.com/pub/dir/Huzaifa/Abdulrahman"
+          "url": "https://www.linkedin.com/pub/dir/Huzaifa/Abdulrahman",
+          "filterCategory": "Journalist"
         },
         {
           "title": "phishing-kit · GitHub Topics",
-          "url": "https://github.com/topics/phishing-kit"
+          "url": "https://github.com/topics/phishing-kit",
+          "filterCategory": "Journalist"
         },
         {
           "title": "megadose/toutatis: Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more",
-          "url": "https://github.com/megadose/toutatis"
+          "url": "https://github.com/megadose/toutatis",
+          "filterCategory": "Journalist"
         },
         {
           "title": "snscrape·PyPI",
-          "url": "https://pypi.org/project/snscrape/"
+          "url": "https://pypi.org/project/snscrape/",
+          "filterCategory": "Journalist"
         },
         {
           "title": "XCancel",
-          "url": "https://xcancel.com/"
+          "url": "https://xcancel.com/",
+          "filterCategory": "Journalist"
         },
         {
           "title": "RPUC - Rhino Profile User Checker",
-          "url": "https://usercheck.oscarzulu.org/"
+          "url": "https://usercheck.oscarzulu.org/",
+          "filterCategory": "Journalist"
         },
         {
           "title": "twintproject/twint: An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
-          "url": "https://github.com/twintproject/twint"
+          "url": "https://github.com/twintproject/twint",
+          "filterCategory": "Journalist"
         },
         {
           "title": "Nicolas Deleur @osint77760 - Twitter Profile | Sotwe",
-          "url": "https://www.sotwe.com/osint77760"
+          "url": "https://www.sotwe.com/osint77760",
+          "filterCategory": "Journalist"
         },
         {
           "title": "Download Twitter Videos Fast | SSSTwitter - Free Online Twitter Video Downloader",
-          "url": "https://ssstwit.com/"
+          "url": "https://ssstwit.com/",
+          "filterCategory": "Journalist"
         },
         {
           "title": "Twitter ID Finder and Converter (100% Working ✅)",
-          "url": "https://twiteridfinder.com/"
+          "url": "https://twiteridfinder.com/",
+          "filterCategory": "Journalist"
         },
         {
           "title": "Social Searcher - Free Social Media Search Engine",
-          "url": "https://www.social-searcher.com/"
+          "url": "https://www.social-searcher.com/",
+          "filterCategory": "Journalist"
         },
         {
           "title": "instagram stories and photos anonymous viewer - imginn.com",
-          "url": "https://imginn.com/"
+          "url": "https://imginn.com/",
+          "filterCategory": "Journalist"
         },
         {
           "title": "Instaloader — Download Instagram Photos and Metadata",
-          "url": "https://instaloader.github.io/"
+          "url": "https://instaloader.github.io/",
+          "filterCategory": "Journalist"
         },
         {
           "title": "Picuki: Instagram Editor and Instagram Story Viewer",
-          "url": "https://picuki.site/"
+          "url": "https://picuki.site/",
+          "filterCategory": "Journalist"
         }
       ],
       "subcategories": [
@@ -842,15 +1014,18 @@
           "bookmarks": [
             {
               "title": "Free Search Instagram Profiles",
-              "url": "https://toolzu.com/search-instagram-profiles/"
+              "url": "https://toolzu.com/search-instagram-profiles/",
+              "filterCategory": "General"
             },
             {
               "title": "GitHub - 0x0be/yesitsme: Simple OSINT script to find Instagram profiles by name and e-mail/phone · GitHub",
-              "url": "https://github.com/0x0be/yesitsme"
+              "url": "https://github.com/0x0be/yesitsme",
+              "filterCategory": "General"
             },
             {
               "title": "Instagram Story Viewer — No Login & 100% Anonymous ✔️",
-              "url": "https://dumpor.io/"
+              "url": "https://dumpor.io/",
+              "filterCategory": "General"
             }
           ],
           "subcategories": []
@@ -860,7 +1035,8 @@
           "bookmarks": [
             {
               "title": "GitHub - 0xcyberpj/tweet-machine: This tool can retrieve : 1.Deleted tweets and replies ,Even if The account is suspended 2 .Old bios and Timestamp of The tweets · GitHub",
-              "url": "https://github.com/0xcyberpj/tweet-machine"
+              "url": "https://github.com/0xcyberpj/tweet-machine",
+              "filterCategory": "General"
             }
           ],
           "subcategories": []
@@ -872,27 +1048,33 @@
       "bookmarks": [
         {
           "title": "Google Earth",
-          "url": "https://earth.google.com/web/@0,-1.008,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggBSg0I____________ARAA"
+          "url": "https://earth.google.com/web/@0,-1.008,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggBSg0I____________ARAA",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Mapillary",
-          "url": "https://www.mapillary.com/"
+          "url": "https://www.mapillary.com/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "GeoGuessr - Let's explore the world!",
-          "url": "https://www.geoguessr.com/"
+          "url": "https://www.geoguessr.com/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "SunCalc - sunrise, sunset, shadow length, solar eclipse, sun position, sun phase, sun height, sun calculator, sun movement, map, sunlight phases, elevation, Photovoltaic system, Photovoltaic",
-          "url": "https://www.suncalc.org/#/27.6936,-97.5195,3/2025.07.05/15:38/1/3"
+          "url": "https://www.suncalc.org/#/27.6936,-97.5195,3/2025.07.05/15:38/1/3",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Copernicus Browser",
-          "url": "https://browser.dataspace.copernicus.eu/?zoom=7&lat=17.17505&lng=95.99997&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BZdz6DTITLngi5%2Fe54UAvMjvQQLZcYpf%2BPzeVML9lPXlDnSEPN07Tn1gLIZeSgbWnVbLWX0%2F3%2B1W88yEDTU5Gx1PQH9kn5WQl1f0Gitnh%2Fj8rIUw1CYziZ&datasetId=S2_L2A_CDAS&fromTime=2025-01-13T00%3A00%3A00.000Z&toTime=2025-07-13T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=MOSAIC"
+          "url": "https://browser.dataspace.copernicus.eu/?zoom=7&lat=17.17505&lng=95.99997&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BZdz6DTITLngi5%2Fe54UAvMjvQQLZcYpf%2BPzeVML9lPXlDnSEPN07Tn1gLIZeSgbWnVbLWX0%2F3%2B1W88yEDTU5Gx1PQH9kn5WQl1f0Gitnh%2Fj8rIUw1CYziZ&datasetId=S2_L2A_CDAS&fromTime=2025-01-13T00%3A00%3A00.000Z&toTime=2025-07-13T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=MOSAIC",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Google Maps",
-          "url": "https://www.google.com/maps/@9.0570752,7.4514432,113703m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D"
+          "url": "https://www.google.com/maps/@9.0570752,7.4514432,113703m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D",
+          "filterCategory": "Cybersecurity"
         }
       ],
       "subcategories": []
@@ -902,59 +1084,73 @@
       "bookmarks": [
         {
           "title": "GitHub - soxoj/osint-namecheckers-list: A list of tools to search accounts by username · GitHub",
-          "url": "https://github.com/soxoj/osint-namecheckers-list"
+          "url": "https://github.com/soxoj/osint-namecheckers-list",
+          "filterCategory": "Journalist"
         },
         {
           "title": "eJPT - CTF Walkthroughs : r/eLearnSecurity",
-          "url": "https://www.reddit.com/r/eLearnSecurity/comments/1iwhcin/ejpt_ctf_walkthroughs/"
+          "url": "https://www.reddit.com/r/eLearnSecurity/comments/1iwhcin/ejpt_ctf_walkthroughs/",
+          "filterCategory": "Journalist"
         },
         {
           "title": "Orkla: Dragon Con Detective - Kase Scenarios",
-          "url": "https://courses.kasescenarios.com/courses/take/dragoncon/multimedia/59003142-orkla-dragon-con"
+          "url": "https://courses.kasescenarios.com/courses/take/dragoncon/multimedia/59003142-orkla-dragon-con",
+          "filterCategory": "Journalist"
         },
         {
           "title": "Maltego ID",
-          "url": "https://login.maltego.com/login?flow=2c30a209-d790-4f35-bac0-1aa4ed39105d"
+          "url": "https://login.maltego.com/login?flow=2c30a209-d790-4f35-bac0-1aa4ed39105d",
+          "filterCategory": "Journalist"
         },
         {
           "title": "Security Blue Team - eLearning Platform",
-          "url": "https://elearning.securityblue.team/home/courses/free-courses/introduction-to-dark-web-operations#description"
+          "url": "https://elearning.securityblue.team/home/courses/free-courses/introduction-to-dark-web-operations#description",
+          "filterCategory": "Journalist"
         },
         {
           "title": "Verif!cation Quiz Bot (@quiztime) / X",
-          "url": "https://x.com/quiztime"
+          "url": "https://x.com/quiztime",
+          "filterCategory": "Journalist"
         },
         {
           "title": "Threat Analysis [NICE Framework Work Role] | NICCS",
-          "url": "https://niccs.cisa.gov/tools/nice-framework/work-role/threat-analysis"
+          "url": "https://niccs.cisa.gov/tools/nice-framework/work-role/threat-analysis",
+          "filterCategory": "Journalist"
         },
         {
           "title": "CTIA Certification | Cyber Threat Intelligence Certification",
-          "url": "https://www.eccouncil.org/train-certify/certified-threat-intelligence-analyst-ctia/"
+          "url": "https://www.eccouncil.org/train-certify/certified-threat-intelligence-analyst-ctia/",
+          "filterCategory": "Journalist"
         },
         {
           "title": "Cybercrime Investigation [NICE Framework Work Role] | NICCS",
-          "url": "https://niccs.cisa.gov/tools/nice-framework/work-role/cybercrime-investigation"
+          "url": "https://niccs.cisa.gov/tools/nice-framework/work-role/cybercrime-investigation",
+          "filterCategory": "Journalist"
         },
         {
           "title": "OSINT | Cybrary",
-          "url": "https://app.cybrary.it/immersive/20707234/activity/72122"
+          "url": "https://app.cybrary.it/immersive/20707234/activity/72122",
+          "filterCategory": "Journalist"
         },
         {
           "title": "The Researcher Course Bundle – i-intelligence",
-          "url": "https://i-intelligence.eu/courses/the-researcher-course-bundle"
+          "url": "https://i-intelligence.eu/courses/the-researcher-course-bundle",
+          "filterCategory": "Journalist"
         },
         {
           "title": "Completely Free Africa People Search Services 2025 AF",
-          "url": "https://www.people-search-global.com/africa-people-search.htm"
+          "url": "https://www.people-search-global.com/africa-people-search.htm",
+          "filterCategory": "Journalist"
         },
         {
           "title": "Message from Welcome to Case IQ",
-          "url": "https://www.caseiq.com/resources/50-free-or-cheap-tools-for-investigators"
+          "url": "https://www.caseiq.com/resources/50-free-or-cheap-tools-for-investigators",
+          "filterCategory": "Journalist"
         },
         {
           "title": "6 Free Satellite Imagery Tools Every Investigator Should Know - YouTube",
-          "url": "https://www.youtube.com/watch?v=-0RQPOdXrqw&t=3s"
+          "url": "https://www.youtube.com/watch?v=-0RQPOdXrqw&t=3s",
+          "filterCategory": "Journalist"
         }
       ],
       "subcategories": []
@@ -964,7 +1160,8 @@
       "bookmarks": [
         {
           "title": "uba, gtbank - Explore - Google Trends",
-          "url": "https://trends.google.com/trends/explore?date=now%207-d&geo=NG&q=uba,gtbank&hl=en-GB"
+          "url": "https://trends.google.com/trends/explore?date=now%207-d&geo=NG&q=uba,gtbank&hl=en-GB",
+          "filterCategory": "General"
         }
       ],
       "subcategories": []
@@ -974,15 +1171,18 @@
       "bookmarks": [
         {
           "title": "GitHub - bellingcat/adsb-history: Collect and query ADS-B data to find aircraft and trends based on geographic region(s), altitude, bearing, aircraft type and more. · GitHub",
-          "url": "https://github.com/bellingcat/adsb-history"
+          "url": "https://github.com/bellingcat/adsb-history",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Flight Tracking Dashboard - Nigerian Safety Investigation Bureau",
-          "url": "https://nsib.gov.ng/flight-track/"
+          "url": "https://nsib.gov.ng/flight-track/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Serving the Flight Tracking Enthusiast - ADS-B Exchange",
-          "url": "https://www.adsbexchange.com/"
+          "url": "https://www.adsbexchange.com/",
+          "filterCategory": "Cybersecurity"
         }
       ],
       "subcategories": []
@@ -992,15 +1192,18 @@
       "bookmarks": [
         {
           "title": "National Youth Service Corps.",
-          "url": "https://portal.nysc.org.ng/nysc1/Transactionstatus_Remita.aspx"
+          "url": "https://portal.nysc.org.ng/nysc1/Transactionstatus_Remita.aspx",
+          "filterCategory": "Brand Protection"
         },
         {
           "title": "Select Service | POSSAP",
-          "url": "https://possap.gov.ng/p/select-service"
+          "url": "https://possap.gov.ng/p/select-service",
+          "filterCategory": "Brand Protection"
         },
         {
           "title": "FCT-IRS | Tax Today, Build Tomorrow",
-          "url": "https://taxporta.fctirs.gov.ng/create-account"
+          "url": "https://taxporta.fctirs.gov.ng/create-account",
+          "filterCategory": "Brand Protection"
         }
       ],
       "subcategories": [
@@ -1009,11 +1212,13 @@
           "bookmarks": [
             {
               "title": "Nigeria Driver's Licence",
-              "url": "https://www.nigeriadriverslicence.org/update/MHbGt-qSiK8NAnrG4sBdng/cyCY8qrS37U/0"
+              "url": "https://www.nigeriadriverslicence.org/update/MHbGt-qSiK8NAnrG4sBdng/cyCY8qrS37U/0",
+              "filterCategory": "General"
             },
             {
               "title": "NDPC INFORMATION MANAGEMENT PORTAL (NIMP)",
-              "url": "https://services.ndpc.gov.ng/repo/?flp=dpco"
+              "url": "https://services.ndpc.gov.ng/repo/?flp=dpco",
+              "filterCategory": "General"
             }
           ],
           "subcategories": []
@@ -1023,11 +1228,13 @@
           "bookmarks": [
             {
               "title": "Maryland US",
-              "url": "https://voterservices.elections.maryland.gov/VoterSearch"
+              "url": "https://voterservices.elections.maryland.gov/VoterSearch",
+              "filterCategory": "General"
             },
             {
               "title": "INEC Voters Online Portal",
-              "url": "https://cvr.inecnigeria.org/voter_verification/index"
+              "url": "https://cvr.inecnigeria.org/voter_verification/index",
+              "filterCategory": "General"
             }
           ],
           "subcategories": []
@@ -1039,15 +1246,18 @@
       "bookmarks": [
         {
           "title": "Purdue OWL® - Purdue OWL® - Purdue University",
-          "url": "https://owl.purdue.edu/"
+          "url": "https://owl.purdue.edu/",
+          "filterCategory": "General"
         },
         {
           "title": "brainstorming.pdf",
-          "url": "https://content.bellevue.edu/cas/la/300/brainstorming.pdf"
+          "url": "https://content.bellevue.edu/cas/la/300/brainstorming.pdf",
+          "filterCategory": "General"
         },
         {
           "title": "The Writing Center at UNC-Chapel Hill",
-          "url": "https://grapepathology.org/wp-content/uploads/2016/09/writingcenter.unc_.edu-The-Writing-Center-at-UNC-Chapel-Hill.pdf"
+          "url": "https://grapepathology.org/wp-content/uploads/2016/09/writingcenter.unc_.edu-The-Writing-Center-at-UNC-Chapel-Hill.pdf",
+          "filterCategory": "General"
         }
       ],
       "subcategories": []
@@ -1057,7 +1267,8 @@
       "bookmarks": [
         {
           "title": "Free Public Records Searches ✔️ | Black Book Online",
-          "url": "https://www.blackbookonline.info/Index.html"
+          "url": "https://www.blackbookonline.info/Index.html",
+          "filterCategory": "HR"
         }
       ],
       "subcategories": []
@@ -1067,31 +1278,38 @@
       "bookmarks": [
         {
           "title": "v86",
-          "url": "https://copy.sh/v86/"
+          "url": "https://copy.sh/v86/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Phind",
-          "url": "https://www.phind.com/"
+          "url": "https://www.phind.com/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "JSLinux",
-          "url": "https://bellard.org/jslinux/"
+          "url": "https://bellard.org/jslinux/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "OverTheWire: Wargames",
-          "url": "https://overthewire.org/wargames/"
+          "url": "https://overthewire.org/wargames/",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Free Online Linux Terminal - Practice Linux Commands in Browser | VPSWALA",
-          "url": "https://vpswala.org/free-online-linux-terminal.html"
+          "url": "https://vpswala.org/free-online-linux-terminal.html",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Free Online Linux Terminal - Practice Commands in Browser | WebTerm",
-          "url": "https://webterm.app/en/free-play"
+          "url": "https://webterm.app/en/free-play",
+          "filterCategory": "Cybersecurity"
         },
         {
           "title": "Free Online Linux Terminal | Practice Commands Without Signup",
-          "url": "https://alavps.com/online-linux-terminal.html"
+          "url": "https://alavps.com/online-linux-terminal.html",
+          "filterCategory": "Cybersecurity"
         }
       ],
       "subcategories": []
@@ -1105,51 +1323,63 @@
           "bookmarks": [
             {
               "title": "Forum Amour, Couple",
-              "url": "https://www.aufeminin.com/forum/amour-couple/all"
+              "url": "https://www.aufeminin.com/forum/amour-couple/all",
+              "filterCategory": "General"
             },
             {
               "title": "Les meilleurs site et appli de rencontre en ligne gratuit - Amitiés, discussions, flirts | Badoo",
-              "url": "https://badoo.com/landing"
+              "url": "https://badoo.com/landing",
+              "filterCategory": "General"
             },
             {
               "title": "happn - Dating App",
-              "url": "https://www.happn.com/"
+              "url": "https://www.happn.com/",
+              "filterCategory": "General"
             },
             {
               "title": "Meetic",
-              "url": "https://www.meetic.fr/d/profile-capture/prompts"
+              "url": "https://www.meetic.fr/d/profile-capture/prompts",
+              "filterCategory": "General"
             },
             {
               "title": "France",
-              "url": "https://www.reddit.com/r/france/"
+              "url": "https://www.reddit.com/r/france/",
+              "filterCategory": "General"
             },
             {
               "title": "C'est comme r/france, en pas pareil.",
-              "url": "https://www.reddit.com/r/rance/"
+              "url": "https://www.reddit.com/r/rance/",
+              "filterCategory": "General"
             },
             {
               "title": "Franais Discord Servers | The #1 Discord Server List",
-              "url": "https://top.gg/discord/servers/tag/franais"
+              "url": "https://top.gg/discord/servers/tag/franais",
+              "filterCategory": "General"
             },
             {
               "title": "INTERNATIONALS in Paris | Meetup",
-              "url": "https://www.meetup.com/internationalsinparis/"
+              "url": "https://www.meetup.com/internationalsinparis/",
+              "filterCategory": "General"
             },
             {
               "title": "Discord",
-              "url": "https://discord.com/invite/french"
+              "url": "https://discord.com/invite/french",
+              "filterCategory": "General"
             },
             {
               "title": "List of newspapers in France - Wikipedia",
-              "url": "https://en.wikipedia.org/wiki/List_of_newspapers_in_France"
+              "url": "https://en.wikipedia.org/wiki/List_of_newspapers_in_France",
+              "filterCategory": "General"
             },
             {
               "title": "French News Ouest-France",
-              "url": "https://www.ouest-france.fr/en/"
+              "url": "https://www.ouest-france.fr/en/",
+              "filterCategory": "General"
             },
             {
               "title": "The Local France - News and practical guides in English",
-              "url": "https://www.thelocal.fr/"
+              "url": "https://www.thelocal.fr/",
+              "filterCategory": "General"
             }
           ],
           "subcategories": []
@@ -1166,7 +1396,8 @@
       "bookmarks": [
         {
           "title": "Webpage archive",
-          "url": "https://archive.ph/"
+          "url": "https://archive.ph/",
+          "filterCategory": "General"
         }
       ],
       "subcategories": []
@@ -1176,7 +1407,8 @@
       "bookmarks": [
         {
           "title": "GitHub - ubikron/awesome-osint-chrome-extensions: Chrome Extensions for OSINT",
-          "url": "https://github.com/ubikron/awesome-osint-chrome-extensions"
+          "url": "https://github.com/ubikron/awesome-osint-chrome-extensions",
+          "filterCategory": "General"
         }
       ],
       "subcategories": []
@@ -1186,7 +1418,8 @@
       "bookmarks": [
         {
           "title": "Darkweb Tool Directory Intelligence Platform",
-          "url": "https://einitial24.com/darkweb-intelligence-tool-directory/"
+          "url": "https://einitial24.com/darkweb-intelligence-tool-directory/",
+          "filterCategory": "General"
         }
       ],
       "subcategories": []
