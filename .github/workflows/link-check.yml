@@ -1,0 +1,26 @@
+name: Link Checker
+
+on:
+  schedule:
+    - cron: '0 3 * * 1'   # Every Monday at 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check URLs
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >
+            --verbose
+            --accept 200,204,206,301,302,403,429
+            tools.json
+            README.md
+            index.html
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
